@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/%22http://pixlkat.github.io/pgh-bridges/static/js/main.1e539bfe.chunk.js",
-    "main.js.map": "/%22http://pixlkat.github.io/pgh-bridges/static/js/main.1e539bfe.chunk.js.map",
-    "runtime-main.js": "/%22http://pixlkat.github.io/pgh-bridges/static/js/runtime-main.58036c52.js",
-    "runtime-main.js.map": "/%22http://pixlkat.github.io/pgh-bridges/static/js/runtime-main.58036c52.js.map",
-    "static/css/2.aa2cf989.chunk.css": "/%22http://pixlkat.github.io/pgh-bridges/static/css/2.aa2cf989.chunk.css",
-    "static/js/2.05fb4362.chunk.js": "/%22http://pixlkat.github.io/pgh-bridges/static/js/2.05fb4362.chunk.js",
-    "static/js/2.05fb4362.chunk.js.map": "/%22http://pixlkat.github.io/pgh-bridges/static/js/2.05fb4362.chunk.js.map",
-    "index.html": "/%22http://pixlkat.github.io/pgh-bridges/index.html",
-    "precache-manifest.6a26fc7803414b84e0309c3ed6c961e2.js": "/%22http://pixlkat.github.io/pgh-bridges/precache-manifest.6a26fc7803414b84e0309c3ed6c961e2.js",
-    "service-worker.js": "/%22http://pixlkat.github.io/pgh-bridges/service-worker.js",
-    "static/css/2.aa2cf989.chunk.css.map": "/%22http://pixlkat.github.io/pgh-bridges/static/css/2.aa2cf989.chunk.css.map",
-    "static/js/2.05fb4362.chunk.js.LICENSE.txt": "/%22http://pixlkat.github.io/pgh-bridges/static/js/2.05fb4362.chunk.js.LICENSE.txt"
+    "main.js": "/pgh-bridges/static/js/main.26aa6cfb.chunk.js",
+    "main.js.map": "/pgh-bridges/static/js/main.26aa6cfb.chunk.js.map",
+    "runtime-main.js": "/pgh-bridges/static/js/runtime-main.4f6cb5ef.js",
+    "runtime-main.js.map": "/pgh-bridges/static/js/runtime-main.4f6cb5ef.js.map",
+    "static/css/2.aa2cf989.chunk.css": "/pgh-bridges/static/css/2.aa2cf989.chunk.css",
+    "static/js/2.05fb4362.chunk.js": "/pgh-bridges/static/js/2.05fb4362.chunk.js",
+    "static/js/2.05fb4362.chunk.js.map": "/pgh-bridges/static/js/2.05fb4362.chunk.js.map",
+    "index.html": "/pgh-bridges/index.html",
+    "precache-manifest.31ed1585c31100f479b36089d901c234.js": "/pgh-bridges/precache-manifest.31ed1585c31100f479b36089d901c234.js",
+    "service-worker.js": "/pgh-bridges/service-worker.js",
+    "static/css/2.aa2cf989.chunk.css.map": "/pgh-bridges/static/css/2.aa2cf989.chunk.css.map",
+    "static/js/2.05fb4362.chunk.js.LICENSE.txt": "/pgh-bridges/static/js/2.05fb4362.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.58036c52.js",
+    "static/js/runtime-main.4f6cb5ef.js",
     "static/css/2.aa2cf989.chunk.css",
     "static/js/2.05fb4362.chunk.js",
-    "static/js/main.1e539bfe.chunk.js"
+    "static/js/main.26aa6cfb.chunk.js"
   ]
 }
